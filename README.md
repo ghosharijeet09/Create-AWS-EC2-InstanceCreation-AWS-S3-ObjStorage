@@ -23,7 +23,6 @@ Materials and Equipment:
 1. AWS Instance Creation
 1.	Log in to AWS Academy Learner Lab:
 ○	Access the AWS Academy Learner Lab through your learning platform.
--https://eu-north-1.console.aws.amazon.com/console/home?region=eu-north-1
 ○	Sign in using your AWS Academy credentials. 
 2.	Navigate to EC2 Dashboard:
 ○	Once in the AWS Management Console, search for "EC2" and select it to open the EC2 dashboard.
